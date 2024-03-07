@@ -1,4 +1,5 @@
 # lite-selfbot
+This selfbot for Discord is a base startup project example designed to enhance your Discord experience. With a focus on customization and automation, this selfbot allows you to personalize your interactions on the platform. From setting custom commands to automating repetitive tasks, this selfbot empowers you to tailor your Discord experience to your preferences. With a user-friendly interface and a wide range of features, this selfbot is the perfect starting point for creating your own personalized Discord bot.
 
 ## Install
 ```bash
