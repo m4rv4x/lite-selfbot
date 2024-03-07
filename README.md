@@ -29,11 +29,12 @@ node .
 ```
 
 Cool Commands : 
-`>btc`
-`>cat [text]`
-`>coincap 10`
-`>death`
-`>kaomoj`
-`>kill`
-`>ping`
-`>purge` (to erase all your message from current channel)
+- `>btc`
+- `>cat [text]`
+- `>coincap 10`
+- `>death`
+- `>kaomoj`
+- `>kill`
+- `>ping`
+- `>purge` (to erase all your message from current channel)
+- (and more...)
