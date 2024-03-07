@@ -10,7 +10,7 @@ npm install
 ## Config
 edit `config.yaml`
 ```bash
-token: "your-discord-token-here"
+token: "YOUR-DISCORD-TOKEN"
 prefix: ">"
 play_status: "online"
 activity_type: "PLAYING"
